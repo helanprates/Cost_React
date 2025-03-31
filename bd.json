@@ -1,0 +1,62 @@
+{
+  "projects": [
+    {
+      "id": "ca24",
+      "name": "Helan Prates",
+      "budget": "1500",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 500,
+      "services": [
+        {
+          "name": "Serviço 01",
+          "cost": "500",
+          "description": "Contratar pessoal",
+          "id": "c8567829-2c9b-4b3f-9848-67fb462fafa0"
+        }
+      ]
+    },
+    {
+      "id": "aad5",
+      "name": "Helan Souza",
+      "budget": "2000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "47e3",
+      "name": "MCTrans",
+      "budget": "5100",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": []
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infra"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    },
+    {
+      "id": "4",
+      "name": "Planejamento"
+    }
+  ]
+}
