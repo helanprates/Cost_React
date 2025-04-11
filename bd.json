@@ -28,17 +28,6 @@
       },
       "cost": 0,
       "services": []
-    },
-    {
-      "id": "47e3",
-      "name": "MCTrans",
-      "budget": "5100",
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "cost": 0,
-      "services": []
     }
   ],
   "categories": [
